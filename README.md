@@ -3,6 +3,9 @@
 This guide provides a list of essential DevOps tools for installation.
 
 ## DevOps Tools
+- AWS CLI
+- boto3
+- Docker-Compose
 - Docker
 - Kubernetes
 - Ansible
